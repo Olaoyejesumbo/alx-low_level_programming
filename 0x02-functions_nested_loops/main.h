@@ -2,3 +2,5 @@
 #define MAIN_H
 
 #endif
+
+void print_alphabet(void);
